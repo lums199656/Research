@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/luminshen/Documents/\344\273\243\347\240\201/PycharmProjects/Research/-GAN-/Table-GAN/tableGAN/checkpoint/Ticket/ruleModel/Ticket_500_7_7/rule_model-2"
+all_model_checkpoint_paths: "checkpoint/Ticket/OI_11_00/tableGan/Ticket_500_7_7_1/rule_model-1002"
+all_model_checkpoint_paths: "checkpoint/Ticket/OI_11_00/tableGan/Ticket_500_7_7_1/rule_model-2002"
+all_model_checkpoint_paths: "checkpoint/Ticket/OI_11_00/tableGan/Ticket_500_7_7_1/rule_model-3002"
+all_model_checkpoint_paths: "checkpoint/Ticket/OI_11_00/tableGan/Ticket_500_7_7_1/rule_model-4002"
+all_model_checkpoint_paths: "/Users/luminshen/Documents/\344\273\243\347\240\201/PycharmProjects/Research/-GAN-/Table-GAN/tableGAN/checkpoint/Ticket/ruleModel/Ticket_500_7_7/rule_model-2"

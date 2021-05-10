@@ -1,0 +1,6 @@
+model_checkpoint_path: "rule_model-3302"
+all_model_checkpoint_paths: "rule_model-3102"
+all_model_checkpoint_paths: "rule_model-3152"
+all_model_checkpoint_paths: "rule_model-3202"
+all_model_checkpoint_paths: "rule_model-3252"
+all_model_checkpoint_paths: "rule_model-3302"

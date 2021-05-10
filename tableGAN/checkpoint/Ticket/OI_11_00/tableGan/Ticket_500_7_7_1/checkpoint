@@ -1,0 +1,6 @@
+model_checkpoint_path: "tableGAN_model-13002"
+all_model_checkpoint_paths: "tableGAN_model-9002"
+all_model_checkpoint_paths: "tableGAN_model-10002"
+all_model_checkpoint_paths: "tableGAN_model-11002"
+all_model_checkpoint_paths: "tableGAN_model-12002"
+all_model_checkpoint_paths: "tableGAN_model-13002"
